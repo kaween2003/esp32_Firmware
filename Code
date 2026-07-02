@@ -9,7 +9,7 @@ const char * password = "kaween2003";
 
 
 String FirmwareVer = {
-  "2.2"
+  "2.1"
 };
 
 
