@@ -19,7 +19,7 @@ String FirmwareVer = {
 unsigned long previousBlink = 0;
 bool ledState = false;
 
-#define URL_fw_Version "https://github.com/kaween2003/esp32_Firmware/blob/main/version.txt"
+#define URL_fw_Version "https://raw.githubusercontent.com/kaween2003/esp32_Firmware/refs/heads/main/version.txt"
 #define URL_fw_Bin "https://raw.githubusercontent.com/kaween2003/esp32_Firmware/refs/heads/main/firmware.bin"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
